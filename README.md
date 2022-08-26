@@ -14,12 +14,4 @@ This section explains how to contribute to the file
 
 This section explains how to deploy the file
 
-these are the changes i've made by myselfi
-
-this is the check to rebase hapenned in featurebranch
-
-this is anther line for staging rebase
-
-adding line #1
-
-adding line #2
+these are the changes i've made by myself
